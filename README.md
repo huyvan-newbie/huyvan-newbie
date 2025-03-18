@@ -1,5 +1,5 @@
 
-#💫 The Miracle Banana:
+# 💫 The Miracle Banana:
 🎓Graduate from Hanoi University in IT major.<br>
 🧙‍♂️A software engineer eager to learn new things.<br>
 🦖Mainly programming in Java.<br>
