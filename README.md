@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![huyvan-newbie's GitHub stats](https://github-readme-stats.vercel.app/api?username=huyvan-newbie)](https://github.com/huyvan-newbie/github-readme-stats)
 <!--
 **huyvan-newbie/huyvan-newbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
